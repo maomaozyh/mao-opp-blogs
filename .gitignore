@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+*.tar.xz
+rust-std-1.99.1-thumbv7em-none-eabihf/
+llvm-tools-1.99.1-x86_64-unknown-linux-gnu/
